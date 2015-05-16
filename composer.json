@@ -1,0 +1,14 @@
+{
+    "name": "minusfour/phpdicontainer",
+    "description": "Simple DI Container",
+    "require": {
+        "php": ">=5.3"
+    },
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Alejandro Quiroga",
+            "email": "alex@minusfour.net"
+        }
+    ]
+}
