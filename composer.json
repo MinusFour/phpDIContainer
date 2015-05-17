@@ -10,5 +10,10 @@
             "name": "Alejandro Quiroga",
             "email": "alex@minusfour.net"
         }
-    ]
+    ],
+	"autoload": {
+		"psr-4" : {
+			"MinusFour\\" : "src/"
+		}
+	}
 }
